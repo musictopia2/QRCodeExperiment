@@ -1,8 +1,9 @@
 {
-  "name": "ScoringExperiment",
-  "short_name": "ScoringExperiment",
-  "id": "./",
-  "start_url": "./",
+  "name": "QR Code Experiment",
+  "short_name": "QR Tools",
+  "id": "/qrtools/",
+  "start_url": "/qrtools/",
+  "scope": "/qrtools/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
